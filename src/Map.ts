@@ -1,6 +1,4 @@
 /// <reference types="@types/google.maps" />
-import { User } from './User'
-import { Company } from './company'
 
 export interface Mappable {
   location: {
